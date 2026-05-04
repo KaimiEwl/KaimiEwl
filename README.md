@@ -1,50 +1,39 @@
 # KaimiEwl
 
-I build AI automation, video pipelines, Telegram/Web3 products, and full-stack prototypes.
+I build working apps, browser games, Telegram bots, websites and business automation.
 
-My work is focused on practical systems: browser agents, render workers, Telegram bots, mobile apps, game loops, Web3 flows, and clear product demos that people can understand quickly.
-
-Portfolio: https://KaimiEwl.github.io/
+Start here: https://KaimiEwl.github.io/
 
 ## Featured Work
 
-| Project | What it proves | Stack |
+| Project | Simple description | Tech |
 | --- | --- | --- |
-| [EWL Nutrition PWA](https://github.com/KaimiEwl/ewl-nutrition-pwa) | Mobile-first product UX, local persistence, planning flows | Next.js, React, TypeScript, Tailwind |
-| [AI Video Render Worker](https://github.com/KaimiEwl/ai-video-render-worker) | Queue-driven automation, media rendering, TTS, upload flow | Python, ffmpeg, OpenAI, R2/S3, n8n |
-| [HookLoot Web3 Game](https://github.com/KaimiEwl/hookloot-web3-game) | Full-stack game/product system with wallet and API concepts | Vite, Fastify, Postgres, Redis, TON, Playwright |
-| [BROAGENTS Browser AI Runtime](https://github.com/KaimiEwl/broagents-browser-ai-runtime) | Browser AI agents, Chrome extension, WebSocket coordination | Node.js, WebSocket, Chrome Extension, React |
-| [TGM Coin Bot](https://github.com/KaimiEwl/tgm-coin-bot) | Telegram economy mechanics, admin UI, referrals, anti-spam | Python, Telegram Bot API, Flask, SQLite |
+| [EWL Nutrition PWA](https://github.com/KaimiEwl/ewl-nutrition-pwa) | Phone-friendly food planning app | Next.js, React, TypeScript, Tailwind |
+| [AI Video Render Worker](https://github.com/KaimiEwl/ai-video-render-worker) | Background system for making videos with voice and subtitles | Python, ffmpeg, OpenAI, R2/S3, n8n |
+| [HookLoot Web3 Game](https://github.com/KaimiEwl/hookloot-web3-game) | Browser game prototype with backend and wallet ideas | Vite, Fastify, Postgres, Redis, TON, Playwright |
+| [BROAGENTS Browser AI Runtime](https://github.com/KaimiEwl/broagents-browser-ai-runtime) | Control panel for multiple AI browser assistants | Node.js, WebSocket, Chrome Extension, React |
+| [TGM Coin Bot](https://github.com/KaimiEwl/tgm-coin-bot) | Telegram bot for rewards, referrals and community activity | Python, Telegram Bot API, Flask, SQLite |
 
 ## Live Deployment Map
 
-| Live link | What to look at | Public status |
+| Live link | What it is | Public status |
 | --- | --- | --- |
 | [Hook & Loot Fishing Game](https://kaimiewl.github.io/fishing-game/) | Playable browser game loop, rewards and upgrades | Live |
 | [Easy Weight Loss Profile App](https://kaimiewl.github.io/EWL/profile/) | Mobile nutrition/profile flow | Live |
 | [NFT Miner Deployment](https://dev.freen8n.space/) | Deployed Web3/game surface behind Cloudflare | Live |
 | [Lina Monitor](https://n8ncodex.freen8n.space/lina-monitor/) | Monitoring UI for automation/operator visibility | Live |
-| [n8n Codex Automation Instance](https://n8ncodex.freen8n.space/) | Self-hosted n8n automation workspace | Login-protected |
-| [Free n8n Automation Instance](https://freen8n.space/) | Separate self-hosted n8n automation workspace | Login-protected |
+| [n8n Codex Automation Instance](https://n8ncodex.freen8n.space/) | Private automation server | Login-protected |
+| [Free n8n Automation Instance](https://freen8n.space/) | Second private automation server | Login-protected |
 
 Private workflow exports, credentials and runtime logs are intentionally not published. Public repos show architecture and case-study context instead of raw automation internals.
 
-## Skill Map
+## What I Build
 
-- AI automation: browser agents, workflow pilots, queue workers, LLM-backed tools.
-- Backend systems: APIs, pollers, render pipelines, environment-driven services, upload flows.
-- Frontend products: React, Next.js, Vite, TypeScript, Tailwind, mobile-first UX.
-- Telegram and Web3: bot economies, mini-app planning, wallet/payment concepts, community mechanics.
-- Visual and game prototypes: Three.js, React Three Fiber, Godot, custom assets.
-- Delivery quality: readable READMEs, screenshots, demos, smoke tests, Playwright checks, deployment scripts.
-
-## Current Portfolio Push
-
-I am packaging local working projects into clean public repositories:
-
-1. Each project gets its own repository.
-2. Each repository gets a plain-English README, screenshots, setup steps and status notes.
-3. The portfolio site links everything together for non-technical clients and technical reviewers.
+- Apps and websites for phones and browsers.
+- Telegram bots and community tools.
+- Business automation with n8n, APIs and background workers.
+- Browser games and product prototypes.
+- Public GitHub repos with screenshots, setup notes and clean code exports.
 
 ## Contact
 
