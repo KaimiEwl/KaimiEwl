@@ -37,4 +37,4 @@ I am packaging local working projects into clean public repositories:
 
 Open the portfolio first: https://KaimiEwl.github.io/
 
-For code review, start with the pinned repositories above.
+For code review, start with the featured repositories above.
