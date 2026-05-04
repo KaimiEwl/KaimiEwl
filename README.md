@@ -16,6 +16,19 @@ Portfolio: https://KaimiEwl.github.io/
 | [BROAGENTS Browser AI Runtime](https://github.com/KaimiEwl/broagents-browser-ai-runtime) | Browser AI agents, Chrome extension, WebSocket coordination | Node.js, WebSocket, Chrome Extension, React |
 | [TGM Coin Bot](https://github.com/KaimiEwl/tgm-coin-bot) | Telegram economy mechanics, admin UI, referrals, anti-spam | Python, Telegram Bot API, Flask, SQLite |
 
+## Live Deployment Map
+
+| Live link | What to look at | Public status |
+| --- | --- | --- |
+| [Hook & Loot Fishing Game](https://kaimiewl.github.io/fishing-game/) | Playable browser game loop, rewards and upgrades | Live |
+| [Easy Weight Loss Profile App](https://kaimiewl.github.io/EWL/profile/) | Mobile nutrition/profile flow | Live |
+| [NFT Miner Deployment](https://dev.freen8n.space/) | Deployed Web3/game surface behind Cloudflare | Live |
+| [Lina Monitor](https://n8ncodex.freen8n.space/lina-monitor/) | Monitoring UI for automation/operator visibility | Live |
+| [n8n Codex Automation Instance](https://n8ncodex.freen8n.space/) | Self-hosted n8n automation workspace | Login-protected |
+| [Free n8n Automation Instance](https://freen8n.space/) | Separate self-hosted n8n automation workspace | Login-protected |
+
+Private workflow exports, credentials and runtime logs are intentionally not published. Public repos show architecture and case-study context instead of raw automation internals.
+
 ## Skill Map
 
 - AI automation: browser agents, workflow pilots, queue workers, LLM-backed tools.
