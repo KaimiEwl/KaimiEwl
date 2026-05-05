@@ -1,42 +1,35 @@
 # KaimiEwl
 
-I build working apps, browser games, Telegram bots, websites and business automation.
+I build practical apps, Telegram bots, browser games, AI automation and video pipelines.
 
-Start here: https://KaimiEwl.github.io/
+[Open the portfolio](https://kaimiewl.github.io/) · [View live projects](https://kaimiewl.github.io/#work) · [Contact on GitHub](https://github.com/KaimiEwl)
 
-## Featured Work
+## Start Here
 
-| Project | Simple description | Tech |
+| Project | What it does | Open |
 | --- | --- | --- |
-| [EWL Nutrition PWA](https://github.com/KaimiEwl/ewl-nutrition-pwa) | Phone-friendly food planning app | Next.js, React, TypeScript, Tailwind |
-| [AI Video Render Worker](https://github.com/KaimiEwl/ai-video-render-worker) | Background system for making videos with voice and subtitles | Python, ffmpeg, OpenAI, R2/S3, n8n |
-| [HookLoot Web3 Game](https://github.com/KaimiEwl/hookloot-web3-game) | Browser game prototype with backend and wallet ideas | Vite, Fastify, Postgres, Redis, TON, Playwright |
-| [BROAGENTS Browser AI Runtime](https://github.com/KaimiEwl/broagents-browser-ai-runtime) | Control panel for multiple AI browser assistants | Node.js, WebSocket, Chrome Extension, React |
-| [TGM Coin Bot](https://github.com/KaimiEwl/tgm-coin-bot) | Telegram bot for rewards, referrals and community activity | Python, Telegram Bot API, Flask, SQLite |
+| Easy Weight Loss Profile App | Mobile-style profile and nutrition settings for a weight-loss app. | [Live app](https://kaimiewl.github.io/EWL/profile/) · [Code](https://github.com/KaimiEwl/ewl-nutrition-pwa) |
+| Hook & Loot Fishing Game | Playable browser game with rewards, upgrades and a clear loop. | [Play](https://kaimiewl.github.io/fishing-game/) · [Code](https://github.com/KaimiEwl/fishing-game) |
+| AI Video Render Worker | Queue-based worker that turns jobs into voice, subtitles and rendered videos. | [Code](https://github.com/KaimiEwl/ai-video-render-worker) |
+| BROAGENTS Browser Runtime | Chrome app and dashboard for connecting multiple AI browser agents. | [Code](https://github.com/KaimiEwl/broagents-browser-ai-runtime) |
+| TGM Coin Bot | Telegram rewards, referrals, balances and admin controls for a community. | [Code](https://github.com/KaimiEwl/tgm-coin-bot) |
+| Lina Monitor | AI influencer workspace with monitoring, post drafting and comment help. | [Live monitor](https://n8ncodex.freen8n.space/lina-monitor/) |
 
-## Live Deployment Map
+## Live Systems
 
-| Live link | What it is | Public status |
+| Link | Plain-English purpose | Status |
 | --- | --- | --- |
-| [Hook & Loot Fishing Game](https://kaimiewl.github.io/fishing-game/) | Playable browser game loop, rewards and upgrades | Live |
-| [Easy Weight Loss Profile App](https://kaimiewl.github.io/EWL/profile/) | Mobile nutrition/profile flow | Live |
-| [NFT Miner Deployment](https://dev.freen8n.space/) | Deployed Web3/game surface behind Cloudflare | Live |
-| [Lina Monitor](https://n8ncodex.freen8n.space/lina-monitor/) | Monitoring UI for automation/operator visibility | Live |
-| [n8n Codex Automation Instance](https://n8ncodex.freen8n.space/) | Private automation server | Login-protected |
-| [Free n8n Automation Instance](https://freen8n.space/) | Second private automation server | Login-protected |
+| [Portfolio](https://kaimiewl.github.io/) | One page with the best work and simple explanations. | Public |
+| [NFT Miner](https://dev.freen8n.space/) | Game/product page deployed on a real server behind Cloudflare. | Public |
+| [n8n Codex](https://n8ncodex.freen8n.space/) | Self-hosted automation workspace for workflows and integrations. | Private login |
+| [Free n8n](https://freen8n.space/) | Second isolated automation workspace. | Private login |
 
-Private workflow exports, credentials and runtime logs are intentionally not published. Public repos show architecture and case-study context instead of raw automation internals.
+## What I Can Build
 
-## What I Build
+- Apps and websites that people can open from a phone or browser.
+- Telegram bots, community tools and admin panels.
+- AI workflows, n8n automations, background workers and API integrations.
+- Video generation/render pipelines with queues, ffmpeg, voice and subtitles.
+- Game and 3D prototypes for quick product validation.
 
-- Apps and websites for phones and browsers.
-- Telegram bots and community tools.
-- Business automation with n8n, APIs and background workers.
-- Browser games and product prototypes.
-- Public GitHub repos with screenshots, setup notes and clean code exports.
-
-## Contact
-
-Open the portfolio first: https://KaimiEwl.github.io/
-
-For code review, start with the featured repositories above.
+Private credentials, workflow secrets, local databases, runtime logs and generated media are intentionally not published. Public repositories show clean code exports, screenshots, setup notes and architecture context.
