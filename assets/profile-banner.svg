@@ -10,6 +10,7 @@
     </filter>
   </defs>
 
+  <a href="https://kaimiewl.github.io/" target="_top">
   <rect width="1200" height="360" fill="#f7fafc"/>
   <rect width="1200" height="360" fill="url(#grid)" opacity="0.7"/>
   <rect x="0" y="0" width="1200" height="10" fill="#0f766e"/>
@@ -68,4 +69,5 @@
       <text x="272" y="50" fill="#52616f" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">n8n, bots, monitors</text>
     </g>
   </g>
+  </a>
 </svg>
